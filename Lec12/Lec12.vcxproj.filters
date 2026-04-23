@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RB Insert.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="new_RB_Insert.cpp">
+    <ClCompile Include="LCS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
